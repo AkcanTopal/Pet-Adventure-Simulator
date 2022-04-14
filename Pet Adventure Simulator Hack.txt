@@ -1,0 +1,164 @@
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
+
+_G.autocoins = true;
+while _G.autocoins == true do
+
+    local args = {
+    [1] = 999,
+    [2] = true
+}
+game:GetService("ReplicatedStorage").Orb:FireServer(unpack(args))
+wait()
+end
